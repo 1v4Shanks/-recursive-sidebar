@@ -1,0 +1,30 @@
+/* #31363F */
+
+.tree-view-container {
+  width: 22%;
+  min-height: 100vh;
+  background-color: #211C6A;
+  padding-top: 30px;
+}
+
+.list-container {
+  list-style: none;
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+.menu-container {
+  margin-left: 30px;
+  margin-top: 30px;
+  color: #fff;
+  position: relative;
+}
+
+.plus-minus{
+position: absolute;
+left: 80px;
+top: -10px;
+font-size: 30px;
+font-weight: bold;
+cursor: pointer;
+}
